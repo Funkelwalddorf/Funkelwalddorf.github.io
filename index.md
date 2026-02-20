@@ -1,8 +1,10 @@
+</> Markdown
+
 ---
 layout: default
 title: Funkelwalddorf Express
 ---
 # Funkelwalddorf Express
 
-Willkommen 
-Hier entsteht meine elektronische Zeitung.
+Willkommen!  
+Hier entsteht der Funkelwald-Express 📰.
