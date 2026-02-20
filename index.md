@@ -4,6 +4,10 @@
 layout: default
 title: Funkelwalddorf Express
 ---
+
+<link rel="stylesheet" href="style.css">
+
+
 # Funkelwalddorf Express
 
 Willkommen!  
